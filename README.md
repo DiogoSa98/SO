@@ -1,2 +1,3 @@
 # SO
-Projetos feitos no ambito da disciplina de Sistemas Operativos
+Project for de UC of Operating Systems of LEIC IST (2º year)
+Made in groups of two students, with António Machado Santos (https://github.com/antonioms98)
